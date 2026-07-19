@@ -21,7 +21,7 @@
         <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" style="border-radius: 15px;" />
       </td>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Bùi+Quang+Bảo+Nam;🌐+My+Info:+https://zyo.lol/.baonam;🏠+My+Home:+https://discord.gg/3FPuZPGWH5;📅+Born:+28/01/2007;🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Bùi+Quang+Bảo+Nam;🌐+My+Info:+https://zyo.lol/.baonam;🏠+My+Home:+https://discord.gg/3FPuZPGWH5;🚀+Status:+Young+Develsoper;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
